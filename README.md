@@ -5,7 +5,7 @@ This plugin challenges all players on the server with random math problems, whoe
 
 ## Plugin Information
 
-**Plugin Name** ---> [ZP] Math Challenge Rewards
+**Plugin Name** ---> [ZP] Math Challenge Rewards\n
 **Version** ---> 1.0
 **Author** ---> DadoDz |
 **Game** ---> Counter-Strike 1.6
