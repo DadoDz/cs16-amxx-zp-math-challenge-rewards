@@ -4,11 +4,11 @@ A fun and rewarding **Zombie Plague (ZP)** mini event plugin for **Counter-Strik
 
 ## Plugin Information
 
-  - **Plugin Name** ---> [ZP] Math Challenge Rewards
-  - **Version** ---> 1.0
-  - **Author** ---> DadoDz
-  - **Game** ---> Counter-Strike 1.6
-  - **Mod** ---> Zombie Plague
+  - **Name**: [ZP] Math Challenge Rewards
+  - **Version**: 1.0
+  - **Author**: DadoDz
+  - **Game**: Counter-Strike 1.6
+  - **Mod**: Zombie Plague
 
 ## Description
 This plugin automatically starts a **math challenge** every few minutes (default 150 seconds).
