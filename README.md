@@ -4,11 +4,11 @@ A fun and rewarding **Zombie Plague (ZP)** mini event plugin for **Counter-Strik
 
 ## Plugin Information
 
-**Plugin Name** ---> [ZP] Math Challenge Rewards
-**Version** ---> 1.0
-**Author** ---> DadoDz
-**Game** ---> Counter-Strike 1.6
-**Base Mod** ---> Zombie Plague
+  - **Plugin Name** ---> [ZP] Math Challenge Rewards
+  - **Version** ---> 1.0
+  - **Author** ---> DadoDz
+  - **Game** ---> Counter-Strike 1.6
+  - **Base Mod** ---> Zombie Plague
 
 ## Description
 This plugin automatically starts a **math challenge** every few minutes (default 150 seconds).
@@ -46,7 +46,7 @@ This plugin uses **custom natives** to get and set ammo packs, you must change t
 
 # Custom
 If you want to modify timings, edit the following defines at the top of the source:
-#define RESTART_TIME 150.0  // Time between challenges
-#define ANSWER_TIME  20.0   // Time to answer before it expires
+  - #define RESTART_TIME 150.0  // Time between challenges
+  - #define ANSWER_TIME  20.0   // Time to answer before it expires
 
 
