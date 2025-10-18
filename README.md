@@ -8,7 +8,7 @@ A fun and rewarding **Zombie Plague (ZP)** mini event plugin for **Counter-Strik
   - **Version** ---> 1.0
   - **Author** ---> DadoDz
   - **Game** ---> Counter-Strike 1.6
-  - **Base Mod** ---> Zombie Plague
+  - **Mod** ---> Zombie Plague
 
 ## Description
 This plugin automatically starts a **math challenge** every few minutes (default 150 seconds).
@@ -16,26 +16,12 @@ A random math question (addition, subtraction, multiplication, division, or fact
 The first player who answers correctly in chat wins **ammo packs**, the faster they answer, the higher their reward!
 If no one solves it within the given time, the plugin reveals the correct answer and starts another challenge later.
 
-## Features
-Automatic math problems every 150 seconds (customizable)
-Players answer directly in chat
-Each player has **3 tries**
-Reward based on answer speed (up to 50 ammo packs)
-Randomized math operations:
-  - Addition (`+`)
-  - Subtraction (`-`)
-  - Multiplication (`×`)
-  - Division (`/`)
-  - Factorial (`!`)
-  - Mixed operations with parentheses
-HUD & colored chat messages
-
 
 ## Important: Integration with Zombie Plague
 
 This plugin uses **custom natives** to get and set ammo packs, you must change these natives based on your zombie plague version.
-**native zp_get_user_packs(index);**
-**native zp_set_user_packs(index, packs);**
+  - **native zp_get_user_packs(index);**
+  - **native zp_set_user_packs(index, packs);**
 
 ## Installation
 1. Place 'zp_math_challenge_rewards.sma' in: addons/amxmodx/scripting/
