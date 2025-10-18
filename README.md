@@ -16,7 +16,6 @@ A random math question (addition, subtraction, multiplication, division, or fact
 The first player who answers correctly in chat wins **ammo packs**, the faster they answer, the higher their reward!
 If no one solves it within the given time, the plugin reveals the correct answer and starts another challenge later.
 
-
 ## Important: Integration with Zombie Plague
 
 This plugin uses **custom natives** to get and set ammo packs, you must change these natives based on your zombie plague version.
@@ -30,7 +29,7 @@ This plugin uses **custom natives** to get and set ammo packs, you must change t
 4. Add this line to your plugins.ini: zp_math_challenge_rewards.amxx
 5. Restart your server.
 
-# Custom
+## Custom
 If you want to modify timings, edit the following defines at the top of the source:
   - #define RESTART_TIME 150.0  // Time between challenges
   - #define ANSWER_TIME  20.0   // Time to answer before it expires
