@@ -19,8 +19,8 @@ If no one solves it within the given time, the plugin reveals the correct answer
 ## Important: Integration with Zombie Plague
 
 This plugin uses **custom natives** to get and set ammo packs, you must change these natives based on your zombie plague version.
-  - **native zp_get_user_packs(index);**
-  - **native zp_set_user_packs(index, packs);**
+  `- **native zp_get_user_packs(index);**
+  - **native zp_set_user_packs(index, packs);**`
 
 ## Installation
 1. Place 'zp_math_challenge_rewards.sma' in: addons/amxmodx/scripting/
