@@ -5,9 +5,9 @@ This plugin challenges all players on the server with random math problems, whoe
 
 ## Plugin Information
 
-**Plugin Name** ---> [ZP] Math Challenge Rewards\n
+**Plugin Name** ---> [ZP] Math Challenge Rewards
 **Version** ---> 1.0
-**Author** ---> DadoDz |
+**Author** ---> DadoDz
 **Game** ---> Counter-Strike 1.6
 **Base Mod** ---> Zombie Plague
 
