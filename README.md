@@ -1,7 +1,6 @@
 # [ZP] Math Challenge Rewards
 
-A fun and rewarding **Zombie Plague (ZP)** mini event plugin for **Counter-Strike 1.6**
-This plugin challenges all players on the server with random math problems, whoever answers correctly first earns **ammo packs** as a reward!
+A fun and rewarding **Zombie Plague (ZP)** mini event plugin for **Counter-Strike 1.6**, this plugin challenges all players on the server with random math problems, whoever answers correctly first earns **ammo packs** as a reward!
 
 ## Plugin Information
 
